@@ -8,3 +8,4 @@ matplotlib 绘图可视化知识点
  - [03. **样式美化matplotlib.pyplot.style.use定制画布风格**](样式美化matplotlib.pyplot.style.use定制画布风格/样式美化matplotlib.pyplot.style.use定制画布风格.md)
 - [04. **matplotlib可视化柱状图**](matplotlib可视化柱状图/matplotlib可视化柱状图.md)
 - [05. **matplotlib可视化直方图**](matplotlib可视化直方图/matplotlib可视化直方图.md)
+- [06. **matplotlib可视化散点图**](matplotlib可视化散点图/matplotlib可视化散点图.md)
