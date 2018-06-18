@@ -10,3 +10,4 @@ matplotlib 绘图可视化知识点
 - [05. **matplotlib可视化直方图**](matplotlib可视化直方图/matplotlib可视化直方图.md)
 - [06. **matplotlib可视化散点图**](matplotlib可视化散点图/matplotlib可视化散点图.md)
 - [07. **matplotlib可视化饼图**](matplotlib可视化饼图/matplotlib可视化饼图.md)
+- [08. **matplotlib可视化箱线图**](matplotlib可视化箱线图/matplotlib可视化箱线图.md)
